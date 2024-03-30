@@ -1,6 +1,7 @@
 ### Movie Review Classification Pipeline
 
 This repository contains a pipeline for text movie review classification. The pipeline is constructed using Python and scikit-learn library for machine learning.
+#### Dataset: http://ai.stanford.edu/~amaas/data/sentiment/
 
 #### Features:
 
